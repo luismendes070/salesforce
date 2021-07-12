@@ -1,6 +1,6 @@
-# demos with salesforce SLDC herokuapp
+# demos with salesforce slds herokuapp
 
-# SLDC
+# slds
 
 https://github.com/luismendes070/lightning-react-app
 
