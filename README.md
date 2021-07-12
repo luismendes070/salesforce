@@ -1,4 +1,13 @@
-# demos with salesforce herokuapp
+# demos with salesforce SLDC herokuapp
+
+# SLDC
+
+https://github.com/luismendes070/lightning-react-app
+
+https://github.com/luismendes070/design-system
+
+https://github.com/luismendes070/design-system-react
+
 
 # demos-heroku
 
