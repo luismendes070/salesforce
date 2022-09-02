@@ -1,6 +1,6 @@
-# demos with salesforce slds herokuapp
-
-# slds
+# demos with salesforce slds herokuapp 
+<a href="https://blog.heroku.com/next-chapter"> Salesforce Heroku PAAS Next Chapter</a>
+# slds 
 
 https://github.com/luismendes070/lightning-react-app
 
